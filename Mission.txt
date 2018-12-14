@@ -1,0 +1,13 @@
+WallBot
+
+Play good goal line defense.
+
+Position on proper side of goal line (shadowing), and push shot to own corner. Collect boost after save.
+
+Only use boost when necessary. 
+Position self at shadowing post.  
+Predict place where ball will cross the goal line.  
+Move to intercept and dodge toward own corner. 
+
+
+
